@@ -1,4 +1,6 @@
 # ODD2023-Datascience-Ex-04
+## DATE:
+
 ### AIM:
 To perform Multivariate EDA on the given data set.
 ### EXPLANATION:
@@ -16,8 +18,6 @@ Return the objects containing counts of unique values using (value_counts()).
 Plot the counts in the form of Histogram or Bar Graph.
 ### STEP 6:
 Use seaborn the bar graph comparison of data can be viewed.
-
-
 ### STEP 7:
 Find the pairwise correlation of all columns in the dataframe.corr()
 
@@ -26,8 +26,8 @@ Save the final data set into the file.
 
 ###  PROGRAM:
 ```
-Name : ARAVIND SAMY P
-Register Number : 212222230011
+Name : HARINI V
+Register Number : 212222230044
 ```
 
 ### SuperStore.csv file:
@@ -105,7 +105,6 @@ df.corr()
 sns.heatmap(df.corr(),annot=True)
 ```
 ### OUTPUT:
-
  
 ### SUPERSTORE:
 
